@@ -1,0 +1,15 @@
+/Users/renat/Desktop/Учеба/DZ/dz6/bin/Debug/net7.0/dz6
+/Users/renat/Desktop/Учеба/DZ/dz6/bin/Debug/net7.0/dz6.deps.json
+/Users/renat/Desktop/Учеба/DZ/dz6/bin/Debug/net7.0/dz6.runtimeconfig.json
+/Users/renat/Desktop/Учеба/DZ/dz6/bin/Debug/net7.0/dz6.dll
+/Users/renat/Desktop/Учеба/DZ/dz6/bin/Debug/net7.0/dz6.pdb
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/dz6.csproj.AssemblyReference.cache
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/dz6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/dz6.AssemblyInfoInputs.cache
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/dz6.AssemblyInfo.cs
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/dz6.csproj.CoreCompileInputs.cache
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/dz6.dll
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/refint/dz6.dll
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/dz6.pdb
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/dz6.genruntimeconfig.cache
+/Users/renat/Desktop/Учеба/DZ/dz6/obj/Debug/net7.0/ref/dz6.dll
